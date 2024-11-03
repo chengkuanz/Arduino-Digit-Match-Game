@@ -50,6 +50,10 @@ This project implements a simple yet engaging digit-matching game using an Ardui
 ## Demo Video
 
 
+https://github.com/user-attachments/assets/24ef1d5b-7839-4ed9-bf69-5a74498b7cdf
+
+
+
 ## Installation
 
 ### Install the Required Libraries:
