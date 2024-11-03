@@ -43,7 +43,7 @@ This project implements a simple yet engaging digit-matching game using an Ardui
 - Breadboard and Jumper Wires
 
 ## Circuit Diagram
-**Note**: Please refer to the 'Teensy_ShiftRegister_7Segment_Wiring' image in the repository for wiring instructions.
+**Note**: Please refer to the `Teensy_ShiftRegister_7Segment_Wiring` image in the repository for wiring instructions.
 
 ![Teensy_ShiftRegister_7Segment_Wiring](Teensy_ShiftRegister_7Segment_Wiring.jpg)
 
