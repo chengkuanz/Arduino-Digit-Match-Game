@@ -1,4 +1,3 @@
-# Arduino-Digit-Match-Game
 # Arduino Digit Matching Game
 
 An interactive game built with Arduino that challenges players to match randomly generated digits using a push-button and a 7-segment display controlled via a shift register.    
