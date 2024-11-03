@@ -12,6 +12,7 @@ An interactive game built with Arduino that challenges players to match randomly
 - [Introduction](#introduction)
 - [Features](#features)
 - [Components Required](#components-required)
+- [Demo Video](#demo-video)
 - [Circuit Diagram](#circuit-diagram)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
@@ -42,17 +43,14 @@ This project implements a simple yet engaging digit-matching game using an Ardui
     - 10kΩ resistor for the push-button pull-down
 - Breadboard and Jumper Wires
 
+## Demo Video
+
+https://github.com/user-attachments/assets/24ef1d5b-7839-4ed9-bf69-5a74498b7cdf
+
 ## Circuit Diagram
 **Note**: Please refer to the `Teensy_ShiftRegister_7Segment_Wiring` image in the repository for wiring instructions.
 
 ![Teensy_ShiftRegister_7Segment_Wiring](Teensy_ShiftRegister_7Segment_Wiring.jpg)
-
-## Demo Video
-
-
-https://github.com/user-attachments/assets/24ef1d5b-7839-4ed9-bf69-5a74498b7cdf
-
-
 
 ## Installation
 
