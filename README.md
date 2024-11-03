@@ -47,6 +47,9 @@ This project implements a simple yet engaging digit-matching game using an Ardui
 
 ![Teensy_ShiftRegister_7Segment_Wiring](Teensy_ShiftRegister_7Segment_Wiring.jpg)
 
+## Demo Video
+
+
 ## Installation
 
 ### Install the Required Libraries:
@@ -124,4 +127,4 @@ This project implements a simple yet engaging digit-matching game using an Ardui
 ## Author
 [Chengkuan](https://github.com/chengkuanz)
 
-last update: 2024 Novemver
+last update: 2024 November
